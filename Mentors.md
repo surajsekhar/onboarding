@@ -1,0 +1,4 @@
+- Schedule at least 2 15 min sessions everyday with your mentee
+- #TODO define Checklists, Coding styles, evaluation criteria for mentors to follow
+- #TODO Mentors have an inital session to get to know the mentees skillsets and expectations from the onboarding, then customise parts of it as required.
+- 
